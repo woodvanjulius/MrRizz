@@ -1,0 +1,6 @@
+{
+  "name": "rizzByJulius",
+  "description": "Your permanent AI dating wingman: screenshot analysis, signal decoding, interest detector, and high-rizz replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
